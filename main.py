@@ -2,7 +2,7 @@ from colorama import Fore
 
 green = Fore.GREEN
 reset = Fore.RESET
-red = Fore.BLUE
+red = Fore.RED
 yellow = Fore.YELLOW
 blue = Fore.BLUE
 white = Fore.WHITE
